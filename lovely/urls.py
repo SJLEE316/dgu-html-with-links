@@ -5,6 +5,5 @@ app_name="lovely"
 urlpatterns=[
     path('first/',first, name="first"),
     path('second/',second, name="second"),
-    path('third/',third, name="third"),
-    
+    path('third/',third, name="third"),   
 ]
